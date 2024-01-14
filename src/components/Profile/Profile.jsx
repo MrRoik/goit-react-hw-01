@@ -6,9 +6,8 @@ export const Profile = ({ name, tag, location, stats }) => {
       <div className={css.description}>
         <img
         src="https://cdn-icons-png.flaticon.com/512/1077/1077012.png"
-        alt="User avatar"
-          className="avatar"
-          width="200"
+        alt={css.name}
+          className={css.avatar}
         />
         <p className={css.name}>{name}</p>
         <p className={css.tag}>@{tag}</p>

@@ -23,6 +23,8 @@ body {
   font-family: var(--primary-font);
   color: var(--primary-black-color);
   background: var(--primary-white-color);
+  display: flex;
+  justify-content: center;
 }
 
 h1,
