@@ -1,5 +1,4 @@
 import clsx from "clsx";
-//import "./FriendList.css";
 import css from "./FriendList.module.css"
 import { IoAccessibility } from "react-icons/io5";
 

@@ -1,0 +1,29 @@
+.transactionHistory {
+    width: 450px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    margin-bottom: 10%;
+    border-collapse: collapse;
+}
+
+body tr {
+    background-color: var(--primary-black-color);
+    color: var(--primary-white-color);
+    font-size: 20px;
+}
+
+.grey {
+    background-color: var(--primary-prelight-grey-color);
+}
+
+.white {
+    background-color: var(--primary-white-color);
+}
+
+.textRow {
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--primary-black-color);
+}
+
+
