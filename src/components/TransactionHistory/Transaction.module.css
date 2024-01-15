@@ -6,7 +6,7 @@
     border-collapse: collapse;
 }
 
-body tr {
+tr {
     background-color: var(--primary-black-color);
     color: var(--primary-white-color);
     font-size: 20px;
