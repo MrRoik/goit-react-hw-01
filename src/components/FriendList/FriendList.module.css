@@ -25,11 +25,11 @@
     box-shadow: rgb(255, 255, 255) -3px -3px 7px, rgb(206, 206, 209) 3px 3px 5px;
 }
 
-.status.is-online {
+.status.isOnline {
     color: green
 }
 
-.status.is-offline {
+.status.isOffline {
     color: red
 }
 
@@ -39,7 +39,7 @@
     color: var(--primary-black-color);
 }
 
-.friend-list {
+.friendlist {
     display: flex;
     justify-content: space-between;
     gap: 6px;
